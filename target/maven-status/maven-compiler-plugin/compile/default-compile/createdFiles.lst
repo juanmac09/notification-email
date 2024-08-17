@@ -1,0 +1,7 @@
+com\example\notificationsemails\dtos\notifications\sendNotificationDto.class
+com\example\notificationsemails\services\notifications\notificationService.class
+com\example\notificationsemails\NotificationsEmailsApplication.class
+com\example\notificationsemails\controllers\notificationController.class
+com\example\notificationsemails\servicesInterfaces\notifications\INotificationService.class
+com\example\notificationsemails\configs\NotificationEmailsConfig.class
+com\example\notificationsemails\exceptions\GlobalExceptionHandler.class
