@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NotificationsEmailsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <envs>
+      <env name="CORS_ALLOWED-ORIGINS" value="http://localhost:4200" />
+      <env name="MAIL_HOST" value="smtp.gmail.com" />
+      <env name="MAIL_PASSWORD" value="hvfcmtbyesishoan" />
+      <env name="MAIL_PORT" value="587" />
+      <env name="MAIL_SMTP_AUTH" value="true" />
+      <env name="MAIL_SMTP_CONNECTIONTIMEOUT" value="5000" />
+      <env name="MAIL_SMTP_STARTTLS_ENABLE" value="true" />
+      <env name="MAIL_SMTP_STARTTLS_REQUIRED" value="true" />
+      <env name="MAIL_SMTP_TIMEOUT" value="5000" />
+      <env name="MAIL_SMTP_WRITETIMEOUT" value="5000" />
+      <env name="MAIL_USERNAME" value="mateoromero0910@gmail.com" />
+    </envs>
+    <module name="notifications-emails" />
+    <target name="notification.email2" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.notificationsemails.NotificationsEmailsApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
