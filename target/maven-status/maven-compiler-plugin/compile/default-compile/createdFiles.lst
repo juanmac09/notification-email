@@ -4,4 +4,5 @@ com\example\notificationsemails\NotificationsEmailsApplication.class
 com\example\notificationsemails\controllers\notificationController.class
 com\example\notificationsemails\servicesInterfaces\notifications\INotificationService.class
 com\example\notificationsemails\configs\NotificationEmailsConfig.class
+com\example\notificationsemails\configs\WebConfig.class
 com\example\notificationsemails\exceptions\GlobalExceptionHandler.class
